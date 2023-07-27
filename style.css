@@ -1,0 +1,39 @@
+#fb{ height: 75.490px;
+    width: 240px;
+    margin: 44px 15px 0 5px;
+}
+body{ 
+    background-color: #e9ebee;
+}
+#panel {
+    background-color: rgb(240, 248, 255);
+    width: 396px;
+    height: 325.417px;
+    padding-bottom: 14px;
+}
+#exampleInputEmail1 {
+    padding: 15px 14px 15px 14px !important;
+
+}
+
+#exampleInputPassword1{
+    padding: 15px 14px 15px 14px;
+}
+#login {
+    width: 364px;
+    height: 48px;
+    padding: 0px 16px 0px 16px;
+}
+a{
+    text-decoration: none;
+    padding-bottom: 16px;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+.red {
+    color: red;
+    margin: 0px;
+    text-align: left;
+}
